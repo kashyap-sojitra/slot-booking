@@ -1,3 +1,14 @@
+#setup instructions 
+clone the project using git clone {{repo-url}}
+cd {repo-name}
+run npm install
+run node index.js
+you can then access different APIs on localhost:3000/{{endpoints-mentioned-below}}
+
+1.localhost:3000/api/free-slots
+2.localhost:3000/api/create-event
+3.localhost:3000/api/get-events?startDate="2021-04-19"&endDate="2021-04-20"
+
 # slot-booking
 
 There are total 3 end points
