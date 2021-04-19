@@ -1,3 +1,11 @@
+# api url
+
+hit the below uri from your browser to see the result in your browser (it is a get request)
+
+URL: https://slot-booking-kashyap.herokuapp.com/
+
+https://slot-booking-kashyap.herokuapp.com/api/get-events?startDate=%222021-04-19%22&endDate=%222021-04-20%22
+
 # setup instructions 
 
 clone the project using the command: git clone https://github.com/kashyap-sojitra/slot-booking.git
