@@ -1,6 +1,7 @@
-#setup instructions 
-clone the project using git clone {{repo-url}}
-cd {repo-name}
+# setup instructions 
+
+clone the project using the command: git clone https://github.com/kashyap-sojitra/slot-booking.git
+cd slot-booking
 run npm install
 run node index.js
 you can then access different APIs on localhost:3000/{{endpoints-mentioned-below}}
