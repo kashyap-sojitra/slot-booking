@@ -1,14 +1,21 @@
 # setup instructions 
 
 clone the project using the command: git clone https://github.com/kashyap-sojitra/slot-booking.git
+
 cd slot-booking
+
 run npm install
+
 run node index.js
+
 you can then access different APIs on localhost:3000/{{endpoints-mentioned-below}}
 
-1.localhost:3000/api/free-slots
-2.localhost:3000/api/create-event
-3.localhost:3000/api/get-events?startDate="2021-04-19"&endDate="2021-04-20"
+localhost:3000/api/free-slots
+
+localhost:3000/api/create-event
+
+localhost:3000/api/get-events?startDate="2021-04-19"&endDate="2021-04-20"
+
 
 # slot-booking
 
